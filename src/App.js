@@ -18,7 +18,7 @@ function App() {
 
   return (
     //add basename in Router
-    <Router> 
+    <Router basename='/vday2024'> 
       <div className="app-container">
         <BackgroundMusic/>
         <Routes>
