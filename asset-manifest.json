@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/vday2024/static/css/main.a122918c.css",
+    "main.js": "/vday2024/static/js/main.f252f0bc.js",
+    "static/js/592.c0ce83b6.chunk.js": "/vday2024/static/js/592.c0ce83b6.chunk.js",
+    "static/media/website_bgm.mp3": "/vday2024/static/media/website_bgm.cd5b96bfcd4f7a0bff82.mp3",
+    "static/media/food_pasta.jpg": "/vday2024/static/media/food_pasta.d18b939c8f789aefdfe8.jpg",
+    "static/media/hammy-flower.jpg": "/vday2024/static/media/hammy-flower.05e27c8a9a381098c7aa.jpg",
+    "static/media/food_soup.jpg": "/vday2024/static/media/food_soup.090aeb26982cd31692bd.jpg",
+    "static/media/wildcard.jpg": "/vday2024/static/media/wildcard.e96829876643a2d133f9.jpg",
+    "static/media/activity_paint.jpg": "/vday2024/static/media/activity_paint.ccb141cee7152a1107ed.jpg",
+    "static/media/cozy_movie.jpg": "/vday2024/static/media/cozy_movie.7d2556ac30f22cf605fb.jpg",
+    "static/media/cozy_supper.jpg": "/vday2024/static/media/cozy_supper.dfdce7394fa5b70b6be5.jpg",
+    "static/media/food_dimsum.jpg": "/vday2024/static/media/food_dimsum.9ac3b86f067a42edb2fc.jpg",
+    "static/media/cozy_read.jpg": "/vday2024/static/media/cozy_read.0a448601faac43f1272d.jpg",
+    "static/media/cozy_snuggle.jpg": "/vday2024/static/media/cozy_snuggle.10c33eb5e3c7f42abb69.jpg",
+    "static/media/activity_museum.jpg": "/vday2024/static/media/activity_museum.4b73de19ff9f56ded190.jpg",
+    "static/media/activity_bowling.jpg": "/vday2024/static/media/activity_bowling.d42a77a5ddb6822abc0e.jpg",
+    "static/media/food_steak.jpg": "/vday2024/static/media/food_steak.d3f651c5006731b14e1b.jpg",
+    "static/media/activity_hike.jpg": "/vday2024/static/media/activity_hike.ea1dd23aa92b2148005b.jpg",
+    "static/media/Duckname.ttf": "/vday2024/static/media/Duckname.37434f9605c7964d6c0a.ttf",
+    "index.html": "/vday2024/index.html",
+    "main.a122918c.css.map": "/vday2024/static/css/main.a122918c.css.map",
+    "main.f252f0bc.js.map": "/vday2024/static/js/main.f252f0bc.js.map",
+    "592.c0ce83b6.chunk.js.map": "/vday2024/static/js/592.c0ce83b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a122918c.css",
+    "static/js/main.f252f0bc.js"
+  ]
+}
