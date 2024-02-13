@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Duckname';
+    src: url('../font/Duckname.ttf') format('truetype');
+}
+
+body {
+    background-color: rgb(255, 226, 231);
+    font-family: 'Duckname';
+}
+
+button {
+    font-family: 'Duckname';
+    font-weight: 500;
+    font-size: 200%;
+    border: 3px solid palevioletred;
+    border-radius: 20px;
+    padding: 10px 30px;
+    cursor: pointer;
+    background-color:  rgb(255, 251, 252) ;
+}
+
+button:hover {
+    background-color: rgb(245, 151, 182);
+}
+
+h1 {
+    text-align: center;
+    font-size: 400%;
+    font-weight: 800;
+}
+
+h2 {
+    text-align: center;
+    font-size: 250%;
+}
+
+p {
+    text-align: center;
+    font-size: 200%;
+    margin: 2.5vh;
+}
+
+/* color of text */
+.selected-choice{
+    color: palevioletred; 
+}
+
+
+.nav-buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+    border: 15px solid palevioletred;
+}

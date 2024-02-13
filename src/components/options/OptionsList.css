@@ -1,0 +1,43 @@
+.options-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.option-item {
+    text-align: center;
+}
+
+.option-button {
+    width: 230px;
+    height: 230px;
+    border: 0px;
+    border-radius: 30px;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+    display: flex; /* Ensure content is centered vertically */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    background-color: palevioletred;
+    box-shadow: 0 9px #999;
+  }
+  
+  /* Styles for when the button is hovered */
+  .option-button:hover {
+    background-color: rgb(177, 72, 107); /* Change background color on hover */
+  }
+  
+ .option-button:active {
+    background-color: rgb(102, 25, 51);
+    box-shadow: 0 5px #666;
+    transform: translateY(6px);
+}
+
+
+.option-img {
+  border-radius: 30px;
+  width: 200px;
+  height: 200px;
+  border: 0; /*need to overwrite common.css*/
+}
