@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vday2024/static/css/main.a122918c.css",
-    "main.js": "/vday2024/static/js/main.4c05d68b.js",
+    "main.js": "/vday2024/static/js/main.4411b2f0.js",
     "static/js/592.c0ce83b6.chunk.js": "/vday2024/static/js/592.c0ce83b6.chunk.js",
     "static/media/website_bgm.mp3": "/vday2024/static/media/website_bgm.cd5b96bfcd4f7a0bff82.mp3",
     "static/media/food_pasta.jpg": "/vday2024/static/media/food_pasta.d18b939c8f789aefdfe8.jpg",
@@ -21,11 +21,11 @@
     "static/media/Duckname.ttf": "/vday2024/static/media/Duckname.37434f9605c7964d6c0a.ttf",
     "index.html": "/vday2024/index.html",
     "main.a122918c.css.map": "/vday2024/static/css/main.a122918c.css.map",
-    "main.4c05d68b.js.map": "/vday2024/static/js/main.4c05d68b.js.map",
+    "main.4411b2f0.js.map": "/vday2024/static/js/main.4411b2f0.js.map",
     "592.c0ce83b6.chunk.js.map": "/vday2024/static/js/592.c0ce83b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a122918c.css",
-    "static/js/main.4c05d68b.js"
+    "static/js/main.4411b2f0.js"
   ]
 }
