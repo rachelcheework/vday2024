@@ -17,7 +17,8 @@ function App() {
   const [selectedCozyImage, setSelectedCozyImage] = useState('');
 
   return (
-    <Router basename='/vday2024'>
+    //add basename in Router
+    <Router basename='/vday2024'> 
       <div className="app-container">
         <BackgroundMusic/>
         <Routes>
